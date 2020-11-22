@@ -1,2 +1,2 @@
-# NLP-CV_SKILLS_EXTRACTOR
- This repository contains a project of a cvs skills extractor
+# NLP-CV-SKILLS_EXTRACTOR
+This project implements an NLP model for automatic skills extraction
